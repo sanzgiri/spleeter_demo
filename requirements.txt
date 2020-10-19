@@ -1,3 +1,4 @@
 youtube-dl
 spleeter
 librosa
+SoundFile

@@ -1,5 +1,7 @@
+ffmpeg
+ffprobe
 ffmpeg-python
-youtube-dl
-spleeter
+youtube_dl
 librosa
 SoundFile
+spleeter
